@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+# 🦇 About me
+
+🌟 I'm currently in junior year of highschool, and I love coding! I recently started learning python and cybersecurity, and I'm going to upload some projects in a few month! Besides coding, I also love watching TV series, right now I'm watching The Vampire Diaries.
+
+# Contact me
+
+📧 E-Mail: w87379620@gmail.com
 <!--
 **kaisecs/kaisecs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
